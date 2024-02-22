@@ -132,7 +132,7 @@ label[for="new-task"] {
     color: #888;
 }
 /* Edit Task */
-.editing {
+.task__editing {
     display: none;
 }
 .edit-mode .editing {
